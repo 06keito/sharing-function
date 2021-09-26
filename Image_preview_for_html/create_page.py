@@ -21,7 +21,7 @@ class FormatText:
             '''</header>\n''')
         
         self.html_text_heading = (
-            '''<h1 class="heading"> {category} {img_count}imgs</h1>\n"'''
+            '''<h1 class="heading"> {category} {img_count}imgs</h1>\n'''
         )
 
         self.html_text_div = (
