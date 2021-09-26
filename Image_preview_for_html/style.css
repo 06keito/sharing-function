@@ -1,0 +1,14 @@
+.heading{
+	clear :both;
+}
+.img{
+	float : left;
+	position: relative;
+}
+.over_number{
+	position: absolute;
+	color: rgb(255, 255, 255);
+	text-align : center;
+	top: 0%;
+	font-size: 10px;
+}
