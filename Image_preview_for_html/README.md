@@ -1,6 +1,6 @@
 # __HTML Table Preview__
 
-![title](readme_pic\sample.jpg)
+![title](readme_pic/sample.jpg)
 
 ## __Overview__
 
