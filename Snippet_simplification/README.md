@@ -34,8 +34,6 @@ python user_snippet_simplification.py
 
 ## __Reference__
 
----
-
 - [VS Codeのユーザースニペット機能の使い方メモ](https://qiita.com/12345/items/97ba616d530b4f692c97)
 
 - [スニペットの登録 - Visual Studio Code - [SMART]](https://rfs.jp/sb/vsc/vsc-snippet.html)
