@@ -31,17 +31,23 @@ it's a song that we're singing.
 歌っている歌です。
 ```
 
+---
+
 ## __Overview__
 
 論文など翻訳したい文章をピリオド区切りで改行、翻訳します。
 
 DeepLのアカウントを作成し、個別のauth_keyを持っていればDeepLによる翻訳も可能です。
 
+---
+
 ## __Requirement__
 
 ```tex
 Python 3.9.4
 ```
+
+---
 
 ## __Installation__
 
@@ -50,6 +56,8 @@ Download this folder.
 ```shell
 svn export https://github.com/06keito/sharing_function/tree/main/Multiple_sentence_reconstruction
 ```
+
+---
 
 ## __Usage__
 
@@ -69,11 +77,15 @@ pip install googletrans==4.0.0-rc1 deepl
 python Multiple_sentence_reconstruction.py --mode [google_trance,deepl]
 ```
 
+---
+
 ## __Author__
 
 - [Twitter](https://twitter.com/yamamoooooooon_)
 
 - [GiuHub](https://github.com/06keito)
+
+---
 
 ## __Licence__
 
