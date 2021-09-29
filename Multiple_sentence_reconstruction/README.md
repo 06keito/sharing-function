@@ -83,7 +83,7 @@ python Multiple_sentence_reconstruction.py --mode [google_trance,deepl]
 
 - [Twitter](https://twitter.com/yamamoooooooon_)
 
-- [GiuHub](https://github.com/06keito)
+- [GitHub](https://github.com/06keito)
 
 ---
 
