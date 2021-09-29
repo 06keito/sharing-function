@@ -1,6 +1,7 @@
 # __Awesome-name__
 
 (ビルドステータス)
+
 ![Badge Status](https://services-as-a-ci)
 
 Image or GIF
@@ -20,6 +21,7 @@ OverviewOverviewOverview
 ## __Requirement__
 
 (依存関係,Python3 or more や、Ruby 1.8+といった書き方)
+
 `Python 3.x.x`
 
 ---
@@ -78,7 +80,7 @@ OverviewOverviewOverview
 
 - [Twitter](https://twitter.com/yamamoooooooon_)
 
-- [GiuHub](https://github.com/06keito)
+- [GitHub](https://github.com/06keito)
 
 ---
 
