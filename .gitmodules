@@ -1,0 +1,3 @@
+[submodule "gist"]
+	path = gist
+	url = https://github.com/06keito/All-my-gist.git
